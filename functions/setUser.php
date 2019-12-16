@@ -44,3 +44,4 @@ $req->bindParam(":email", $_POST["email"]);
 
 var_dump($_POST);
 
+hugo 
